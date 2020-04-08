@@ -246,6 +246,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Okta|✅|Toronto internships will be remote|
 |Optimizely|✅|Hiring Freeze|
 |Optiver|✅|Won't cancel. Remote if needed.|
+|Optum|✅|Still On. Considering Remote if necessary.|
 |Oracle|✅|Interviews being postponed to a later date.|
 |Oscar Health|✅|Not planning to cancel. Remote/In-person decision by mid-April|
 |Pagerduty|✅|Fully remote.|
